@@ -1,4 +1,4 @@
-Solución al problema que brindé en mi video tutorial sobre compresiones de lista en Python
+Solución al problema que brindé en mi video tutorial sobre compresiones de listas en Python
 
 Problema que presenté como practica en mi video sobre compresiones de listas, tuplas y diccionarios:
 - Crear dos listas usando compresiones de listas, en la primera se crearan 30 usuarios con el formato: usuario0, usuario1, usuario2, etc... En la segunda lista, se crearán 30 correos inventados, con el formato: correo0@correo.com, correo1@correo.com, correo2@correo.com y así sucesivamente.
@@ -11,5 +11,7 @@ dicc = {
 }
 
 La solución se encuentra en el archivo solucion.py
+
+Video tutorial: https://youtu.be/KE06qcTghok
 
 Dudas: josuearias.crc@gmail.com
